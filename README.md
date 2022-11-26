@@ -4,7 +4,7 @@ Eugeni Vidal-Tortosa
 2022-11-26
 
 Potential title: “Cycling growth in Valencia: a quantitative analysis 5
-years after the implementation of the cycling ring (and other measures
+years after the implementation of the ‘Cycling Ring’ (and other measures
 to promote sustainable transport)”.
 
 # Some context
@@ -26,3 +26,5 @@ json_data <- fromJSON(paste(readLines(json_file), collapse=""))
 
     ## Warning in readLines(json_file): incomplete final line found on 'https://
     ## geoportal.valencia.es/apps/OpenData/Trafico/tra_espiras_bici_p.json'
+
+# Next steps…
