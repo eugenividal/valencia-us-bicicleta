@@ -1,7 +1,17 @@
 Data exploration
 ================
+Eugeni Vidal-Tortosa
+2022-11-26
 
-# Cycling volumes
+Potential title: “Cycling growth in Valencia: a quantitative analysis 5
+years after the implementation of the cycling ring (and other measures
+to promote sustainable transport)”.
+
+# Some context
+
+<https://energy-cities.eu/best-practice/a-new-cycling-ring-to-transform-mobility-in-valencia/>
+
+# Data
 
 <https://opendata.vlci.valencia.es/en/dataset/intensitat-dels-punts-de-mesura-de-bicicletes-espires-electromagnetiques>
 
