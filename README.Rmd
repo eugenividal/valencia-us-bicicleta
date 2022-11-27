@@ -25,11 +25,11 @@ Main policy implementations:
 
 # Aims
 
-- Estimate cycling growth. To what extent this growth can be associated to the new policies implementations?
+- Estimate cycling growth. To what extent this growth can be associated to the new policies?
 
 - Estimate economic and health benefits. What are the economic and health benefits of this change? How many deaths (emissions and road safety) have been avoided? 
 
-- Estimate potential growth. Future. Are these policies enough? What to do to go beyond current numbers?
+- Future. Is this growth enough? What to do to go beyond?
 
 # Data 
 
