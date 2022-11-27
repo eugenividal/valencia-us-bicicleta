@@ -34,16 +34,19 @@ Main policy implementations:
 
 # Aims
 
-- Growth estimation.
+- Estimate cycling growth.
 
-- Health benefits? How many deaths avoided? Emissions and road safety
-  improvements.
+- To what extent can this growth can be associated to the new policies
+  implementations?
 
-- Any kind of prediction?
+- What are the economic and health benefits of this change? How many
+  deaths (emissions and road safety) have been avoided?
+
+- Future: predict next years?
 
 # Data
 
-Cycling traffic counts:
+- Cycling traffic counts:
 
 <https://opendata.vlci.valencia.es/en/dataset/intensitat-dels-punts-de-mesura-de-bicicletes-espires-electromagnetiques>
 
@@ -61,4 +64,4 @@ json_data <- fromJSON(paste(readLines(json_file), collapse=""))
 
 # Next steps
 
-Get more data!
+- Get more data!
