@@ -1,17 +1,12 @@
-Data exploration
+Cycling growth in Valencia city
 ================
 Eugeni Vidal-Tortosa
 2022-11-26
 
-# Potential title
-
-Cycling growth in Valencia: a quantitative analysis after seven years of
-investment in cycling infrastructure (and other sustainable transport
-measures).
-
+<!-- Cycling growth in Valencia city: a quantitative analysis after seven years of investment in cycling infrastructure (and other sustainable transport measures). -->
 <!-- Alternative title: 'From Grand Prix (2013) to European Green Capital (2024)' -->
 
-# Some context
+# Background
 
 Valencia has gone in less than 10 years from being one of the most
 car-oriented Spanish cities (it hosted the Grand Prix in 2013!) to
@@ -35,7 +30,7 @@ Main measurements:
 
 - Traffic Calming Measures
 
-# Questions
+# Aims
 
 - Growth estimation.
 

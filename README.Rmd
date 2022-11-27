@@ -1,17 +1,15 @@
 ---
-title: "Data exploration"
+title: "Cycling growth in Valencia city"
 author: "Eugeni Vidal-Tortosa"
 date: "2022-11-26"
 output: github_document    
 ---
 
-# Potential title
-
-Cycling growth in Valencia: a quantitative analysis after seven years of investment in cycling infrastructure (and other sustainable transport measures).
+<!-- Cycling growth in Valencia city: a quantitative analysis after seven years of investment in cycling infrastructure (and other sustainable transport measures). -->
 
 <!-- Alternative title: 'From Grand Prix (2013) to European Green Capital (2024)' -->
 
-# Some context
+# Background
 
 Valencia has gone in less than 10 years from being one of the most car-oriented Spanish cities (it hosted the Grand Prix in 2013!) to becoming a benchmark in cycling in the Mediterranean area. 
 This rapid change is mainly due to a set of courageous social and environmental transformation policies (e.g. investment in cycling infrastructure, bikesharing system, traffic calming measures, pedestrianisation of several areas, etc.) carried out by the municipal government that came to power in 2015. 
@@ -29,7 +27,7 @@ Main measurements:
 
 - Traffic Calming Measures
 
-# Questions
+# Aims
 
 - Growth estimation.
 
