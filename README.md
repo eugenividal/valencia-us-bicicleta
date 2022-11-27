@@ -13,16 +13,18 @@ car-oriented Spanish cities (it hosted the Grand Prix in 2013!) to
 becoming a benchmark in cycling in the Mediterranean area. This rapid
 change is mainly due to a set of courageous social and environmental
 transformation policies (e.g. investment in cycling infrastructure,
-bikesharing system, traffic calming measures, pedestrianisation of
-several areas, etc.) carried out by the municipal government that came
-to power in 2015. For this and other environmental achievements it has
-just been nominated European Green Capital 2024.
+bikesharing system, traffic calming measures, etc.) carried out by the
+municipal government that came to power in 2015. For this and other
+environmental achievements it has just been nominated European Green
+Capital 2024.
+
+For some context see:
 
 <https://energy-cities.eu/best-practice/a-new-cycling-ring-to-transform-mobility-in-valencia/>
 
 <https://environment.ec.europa.eu/news/valencia-elsinore-and-velenje-win-2024-european-green-city-awards-2022-10-28_en>
 
-Main measurements:
+Main policy implementations:
 
 - Cycling Ring
 
@@ -41,9 +43,9 @@ Main measurements:
 
 # Data
 
-<https://opendata.vlci.valencia.es/en/dataset/intensitat-dels-punts-de-mesura-de-bicicletes-espires-electromagnetiques>
+Cycling traffic counts:
 
-Cycling traffic counts in Valencia city.
+<https://opendata.vlci.valencia.es/en/dataset/intensitat-dels-punts-de-mesura-de-bicicletes-espires-electromagnetiques>
 
 ``` r
 library("rjson")
