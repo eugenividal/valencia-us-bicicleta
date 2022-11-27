@@ -15,40 +15,36 @@ change is mainly due to a set of courageous social and environmental
 transformation policies (e.g. investment in cycling infrastructure,
 bikesharing system, traffic calming measures, etc.) carried out by the
 municipal government that came to power in 2015. For this and other
-environmental achievements it has just been nominated European Green
-Capital 2024.
-
-For some context see:
-
-<https://energy-cities.eu/best-practice/a-new-cycling-ring-to-transform-mobility-in-valencia/>
-
-<https://environment.ec.europa.eu/news/valencia-elsinore-and-velenje-win-2024-european-green-city-awards-2022-10-28_en>
+environmental achievements it has just been nominated [European Green
+Capital
+2024](https://environment.ec.europa.eu/news/valencia-elsinore-and-velenje-win-2024-european-green-city-awards-2022-10-28_en).
 
 Main policy implementations:
 
-- Cycling Ring
+- [Cycling
+  Ring](https://energy-cities.eu/best-practice/a-new-cycling-ring-to-transform-mobility-in-valencia/)
 
-- Bikesharing: <https://www.valenbisi.es/en/home>
+- Bikesharing: [Valenbici](https://www.valenbisi.es/en/home)
 
-- Traffic Calming Measures
+- [Traffic Calming
+  Measures](https://elpais.com/espana/comunidad-valenciana/2022-08-07/valencia-revoluciona-su-centro-historico-con-la-peatonalizacion-de-30000-metros-cuadros.html)
 
 # Aims
 
-- Estimate cycling growth.
+- Estimate cycling growth. To what extent this growth can be associated
+  to the new policies implementations?
 
-- To what extent can this growth can be associated to the new policies
-  implementations?
+- Estimate economic and health benefits. What are the economic and
+  health benefits of this change? How many deaths (emissions and road
+  safety) have been avoided?
 
-- What are the economic and health benefits of this change? How many
-  deaths (emissions and road safety) have been avoided?
-
-- Future: predict next years?
+- Estimate potential growth. Future. Are these policies enough? What to
+  do to go beyond current numbers?
 
 # Data
 
-- Cycling traffic counts:
-
-<https://opendata.vlci.valencia.es/en/dataset/intensitat-dels-punts-de-mesura-de-bicicletes-espires-electromagnetiques>
+- [Cycling traffic
+  counts](https://opendata.vlci.valencia.es/en/dataset/intensitat-dels-punts-de-mesura-de-bicicletes-espires-electromagnetiques)
 
 ``` r
 library("rjson")
@@ -60,7 +56,7 @@ json_data <- fromJSON(paste(readLines(json_file), collapse=""))
     ## Warning in readLines(json_file): incomplete final line found on 'https://
     ## geoportal.valencia.es/apps/OpenData/Trafico/tra_espiras_bici_p.json'
 
-- Valenbici?
+- Valenbici data?
 
 # Next steps
 
